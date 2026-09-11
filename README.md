@@ -10,19 +10,11 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 ---
 
 ### 🛠️ Tech Stack & Tools yang Dipelajari
-<p align="left">
-  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>
-</p>
 
----
-
-### 📊 Statistik Belajar Saya
-<p align="left">
-  <img src="https://vercel.app" alt="Statistik GitHub" />
-</p>
+* **JavaScript** 🟨
+* **HTML5** 🟧
+* **CSS3** 🟦
+* **Git** 🟥
 
 ---
 
