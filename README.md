@@ -1,6 +1,6 @@
 # Halo semuanya, saya Fahri Mufti 👋
 
-### Tentang Saya
+### 🚀 Tentang Saya
 Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan coding setiap hari. Saat ini fokus utama saya adalah menguasai dasar-dasar **JavaScript** dan membangun logika pemrograman yang kuat.
 
 - 📅 **Tantangan Saat Ini:** Belajar coding minimal 1 jam setiap hari!
