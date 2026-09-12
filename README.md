@@ -40,7 +40,7 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 
 ### Repositori Belajar
 
-- 📘 [Belajar-JavaScript](https://github.com/fahrimufti/Belajar-JavaScript) — Tempat saya menyimpan semua kode latihan harian dan coretan logika JavaScript.
+- 📘 [Belajar-JavaScript](https://github.com/fahrimufti/Belajar-JavaScript.git) — Tempat saya menyimpan semua kode latihan harian dan coretan logika JavaScript.
 - ☕ [projek-kopi](https://github.com/fahrimufti/projek-kopi) — Website coffee shop, project belajar HTML/CSS/JS dari nol.
 
 ---
