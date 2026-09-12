@@ -1,10 +1,10 @@
 <h1 align="center">Halo semuanya, saya Fahri Mufti 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=D9A441&center=true&vCenter=true&width=500&lines=Belajar+JavaScript+setiap+hari;Membangun+logika+pemrograman+yang+kuat;Konsistensi+mengalahkan+intensitas+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=D9A441&center=true&vCenter=true&width=500&lines=Belajar+JavaScript+setiap+hari;Membangun+logika+pemrograman+yang+kuat;Konsistensi+mengalahkan+intensitas" alt="Typing SVG" />
 </p>
 
-### 🚀 Tentang Saya
+### Tentang Saya
 
 Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan coding setiap hari. Saat ini fokus utama saya adalah menguasai dasar-dasar **JavaScript** dan membangun logika pemrograman yang kuat.
 
@@ -46,5 +46,5 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 ---
 
 <p align="center">
-  <i>"Konsistensi mengalahkan intensitas. 1 jam sehari, 365 jam setahun!" 🚀</i>
+  <i>"Konsistensi mengalahkan intensitas."</i>
 </p>
