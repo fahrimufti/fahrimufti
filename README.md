@@ -9,12 +9,12 @@
 Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan coding setiap hari. Saat ini fokus utama saya adalah menguasai dasar-dasar **JavaScript** dan membangun logika pemrograman yang kuat.
 
 - 📆 **Tantangan Saat Ini:** Belajar coding minimal 1 jam setiap hari!
-- ⚡ **Fokus Sekarang:** Sintaks Dasar, DOM Manipulation, dan Asynchronous JS
+- 🔥 **Fokus Sekarang:** Sintaks Dasar, DOM Manipulation, dan Asynchronous JS
 - 🎯 **Target:** Bisa bikin project web interaktif sendiri dari nol
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,7 +25,7 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahrimufti&show_icons=true&theme=dark&hide_border=true" />
@@ -38,7 +38,7 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 
 ---
 
-### 📁 Repositori Belajar
+### Repositori Belajar
 
 - 📘 [Belajar-JavaScript](https://github.com/fahrimufti/Belajar-JavaScript) — Tempat saya menyimpan semua kode latihan harian dan coretan logika JavaScript.
 - ☕ [projek-kopi](https://github.com/fahrimufti/projek-kopi) — Website coffee shop, project belajar HTML/CSS/JS dari nol.
