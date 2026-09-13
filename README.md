@@ -27,10 +27,6 @@ Saya adalah seorang mahasiswa yang sedang berusaha konsisten melatih kemampuan c
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahrimufti&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrimufti&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrimufti&theme=dark&hide_border=true" />
